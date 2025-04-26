@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+   
+        font-family: Arial, sans-serif;
+        background: linear-gradient(#FFDEE9, #B5FFFC, #C9FFBF);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 250vh;
+        width: 100%;
+    }
+
+
+
+h1 {
+    text-align: center;
+    padding: 30px;
+    font-size: 31px;
+}
+
+table {
+    width: 70%;
+    border-collapse: collapse;
+    position: absolute;
+    top: 13%;
+    left: 15%;
+}
+
+th, td {
+    border: 1px solid #050505;
+    padding: 10px;
+}
+
+th {
+    background-color: #5fc262;
+    color: white;
+}
+
