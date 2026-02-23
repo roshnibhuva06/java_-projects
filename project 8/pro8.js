@@ -8,14 +8,14 @@ let productContainer = document.querySelector('.product');
 
 // Products array
 let products = [
-    { id: 1, name: "PURCE", price: 100, image: "img/bag.png" },
-    { id: 2, name: "CELINE", price: 120, image: "img/bag1.png" },
-    { id: 3, name: "PRADA", price: 150, image: "img/bag2.png" },
-    { id: 4, name: "LOEWE", price: 200, image: "img/bag3.png" },
-    { id: 5, name: "ZARA", price: 250, image: "img/bag4.png" },
-    { id: 6, name: "CHENAL", price: 300, image: "img/bag5.png" },
-    { id: 7, name: "GUCCI", price: 350, image: "img/bag6.png" },
-    { id: 8, name: "CHRICTION DIOR", price: 400, image: "img/bagg.png" },
+    { id: 1, name: "PURCE", price: 1500, image: "img/bag.png" },
+    { id: 2, name: "CELINE", price: 1620, image: "img/bag1.png" },
+    { id: 3, name: "PRADA", price: 3450, image: "img/bag2.png" },
+    { id: 4, name: "LOEWE", price: 2800, image: "img/bag3.png" },
+    { id: 5, name: "ZARA", price: 1950, image: "img/bag4.png" },
+    { id: 6, name: "CHENAL", price: 1800, image: "img/bag5.png" },
+    { id: 7, name: "GUCCI", price: 3200, image: "img/bag6.png" },
+    { id: 8, name: "CHRICTION DIOR", price: 5200, image: "img/bagg.png" },
 ];
 
 // Cart array
