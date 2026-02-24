@@ -1,4 +1,4 @@
-# 🛍️ Premium Shopping Cart Web Application
+# 🛍️ Shopping Cart 
 
 A modern and responsive Shopping Cart Web Application built using HTML, CSS, and JavaScript.  
 This project demonstrates dynamic product rendering, cart management, and smooth sidebar animations with a premium UI design.
