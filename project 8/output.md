@@ -39,10 +39,10 @@ The UI is designed with a luxury gold theme, smooth transitions, modern typograp
 • JavaScript (Vanilla JS) – Functionality  
 • Remix Icon – Icons  
 
-------------------------------------------------------------
+---
 
 📂 Folder Structure
-
+```
 shopping-cart-project/
 │── index.html
 │── style.css
@@ -52,8 +52,8 @@ shopping-cart-project/
 │    ├── bag1.png
 │    ├── bag2.png
 │    └── ...
-
-------------------------------------------------------------
+```
+---
 
 ⚙️ How It Works
 
@@ -64,7 +64,7 @@ shopping-cart-project/
 5. Quantity buttons (+ / -) update the cart in real time.
 6. Cart badge counter updates instantly.
 
-------------------------------------------------------------
+---
 
 📌 Future Improvements
 
@@ -74,11 +74,11 @@ shopping-cart-project/
 • Backend integration (Node.js + MongoDB)  
 • Payment gateway integration  
 
-------------------------------------------------------------
+---
 
 👩‍💻 Author
 
 Roshni Bhuva  
 Frontend Developer | JavaScript Enthusiast  
 
-------------------------------------------------------------
+---
